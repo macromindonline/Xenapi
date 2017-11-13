@@ -1,5 +1,5 @@
 {
-    "name": "sircamp/xenapi",
+    "name": "macromindonline/xenapi",
     "description": "A Xen PHP API for managment of Hypervisor and their Virtual Machine for php",
     "keywords": ["laravel","xen","phpxenapi","api","citrix","citrixapi","xmlrpc","vps","hypervisor"],
     "type": "library",
@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.4.0",
         "respect/validation": "0.8.*",
-        "guzzlehttp/guzzle": "~5.0"
+        "guzzlehttp/guzzle": "~6.0"
     },
     "autoload": {
         "classmap": [
